@@ -2,6 +2,6 @@ namespace TestMcSonae.Configurations
 {
     public class ReservationSettings
     {
-        public int ReservationTimeoutSeconds { get; set; } = 15;
+        public int ReservationTimeoutSeconds { get; set; } = 30;
     }
 }
